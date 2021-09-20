@@ -1,9 +1,5 @@
-cucumberTestRunner\cucumberTestClass.class
-cucumberStepDefinition\InvalidLoginStepDefinition.class
-pages\LoginPage.class
-cucumberStepDefinition\loginStepDefinition.class
-utility\ConfigReader.class
-pages\HomePage.class
-helper\BrowserFactory.class
-testPackage\TestClass.class
-testPackage\BaseClass.class
+helper/BrowserFactory.class
+cucumberTestRunner/cucumberTestClass.class
+utility/ConfigReader.class
+pages/HomePage.class
+testPackage/BaseClass.class

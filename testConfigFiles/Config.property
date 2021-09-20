@@ -1,2 +1,3 @@
 URL = https://www.shop-apotheke.com/nl/login.htm
-ChromeDriver = ./ChromeDriver/chromedriver.exe
+ChromeDriver = ChromeDriver/chromedriver
+##ChromeDriver = /Users/monikasinghtomar/eclipse-workspace/Cucumber_maven/chromedriver 2.exe

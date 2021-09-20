@@ -6,10 +6,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-import helper.BrowserFactory;
 //import utilityPackage.ExcelDataConfig;
-
 import java.util.concurrent.TimeUnit;
+import helper.BrowserFactory;
 
 public class LoginPage {
 	//BrowserFactory browserObj;	
